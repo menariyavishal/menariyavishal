@@ -210,30 +210,23 @@
 
 ---
 
-## 🕹️ Pac-Man Gobbling My Contributions!
+</div>🕹️ Contribution Animation
 
-<!-- 
-  ⚠️ PAC-MAN SETUP REQUIRED:
-  To enable the Pac-Man animation on YOUR profile, you need to:
-  1. Go to your menariyavishal/menariyavishal repo → Actions tab
-  2. Create a new workflow file: .github/workflows/pacman.yml
-  3. Use: https://github.com/Platane/snk (generates the SVG automatically)
-  The SVG will then appear at the raw.githubusercontent.com URL below.
--->
+
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/menariyavishal/menariyavishal/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/menariyavishal/menariyavishal/output/github-contribution-grid-snake.svg" />
-  <img alt="pac-man contribution" src="https://raw.githubusercontent.com/menariyavishal/menariyavishal/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+
+  <img alt="contribution animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
 </picture>
 
-> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
 
-</div>
-
----
 
 <!-- ██████████████████████████ FOOTER ██████████████████████████ -->
 
